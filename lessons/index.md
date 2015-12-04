@@ -23,3 +23,8 @@ topic: Rijkzwaan workshop lessons
 - [Writing files at the command line](07_writing_files.html)
 
 - [Automating a workflow](08-automating_a_workflow.html)
+
+- [SQL Introduction](00-sql-introduction.html)
+- [SQL Basic queries](01-sql-basic-queries.html)
+- [SQL Aggregation](02-sql-aggregation.html)
+- [SQL Joins and aliases](03-sql-joins-aliases.html)
