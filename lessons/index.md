@@ -1,10 +1,10 @@
 ---
 layout: lesson
 root: .
-topic: Genentech workshop lessons
+topic: Rijkzwaan workshop lessons
 ---
 
-## Lessons for Genentech workshop
+## Lessons for Rijkzwaan workshop
 
 - [Intro to tidy data](00-intro-to-data-tidy.html)
 
