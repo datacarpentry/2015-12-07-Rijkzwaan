@@ -51,7 +51,7 @@ Here's what her samples looked like when she submitted them to the DNA facility.
 
 Take a couple minutes to look at this data, can you identify some problems with this datasheet?
 
-[Some tips on file organization](02-common-mistakes.html)
+[Some tips on file organization](http://www.datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes.html)
 
 **Important!** If you are going to be doing any cleaning of your spreadsheet, make sure 
 you're keeping your raw data raw and taking notes on any cleaning you do. Before you 
@@ -96,7 +96,10 @@ Dates in spreadsheets often cause problems when you're trying to interpret them 
 especially if you're trying to export them to another program. A way to get around
 most date problems, is to split them up in to three columns with YYYY, MM, DD
 
-Challenge: pulling month, day and year out of dates
+[Dates as data](http://www.datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data.html)
+
+#### Challenge
+Pulling month, day and year out of dates
 
 In the dates tab of your Excel file you have the *Date of Sample* column.
 Let’s extract month and year from the dates to new columns. For this we can use the built
