@@ -16,7 +16,7 @@ topic: Rijkzwaan workshop lessons
 - Data Cleaning with OpenRefine
 - R for Genomics
 - Data Management with SQL
-  * [SQL Introduction](00-sql-introduction.md)
-  * [SQL Basic queries](01-sql-basic-queries.md)
-  * [SQL Aggregation](02-sql-aggregation.md)
-  * [SQL Joins and aliases](03-sql-joins-aliases.md)
+  * [SQL Introduction](00-sql-introduction.html)
+  * [SQL Basic queries](01-sql-basic-queries.html)
+  * [SQL Aggregation](02-sql-aggregation.html)
+  * [SQL Joins and aliases](03-sql-joins-aliases.html)
